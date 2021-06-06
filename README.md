@@ -16,6 +16,7 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/borda/birl)](https://hub.docker.com/r/borda/birl)
 
 <!--
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBorda%2FBIRL.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FBorda%2FBIRL?ref=badge_shield)
 [![Build Status](https://travis-ci.com/Borda/BIRL.svg?branch=master)](https://travis-ci.com/Borda/BIRL)
 [![Code Health](https://landscape.io/github/Borda/BIRL/master/landscape.svg?style=flat)](https://landscape.io/github/Borda/BIRL/master)
 [![Run Status](https://api.shippable.com/projects/585bfa66e18a291000c15f24/badge?branch=master)](https://app.shippable.com/github/Borda/BIRL)
@@ -348,6 +349,8 @@ python bm_experiments/evaluate_experiment.py \
 ## License
 
 The project is using the standard [BSD license](http://opensource.org/licenses/BSD-3-Clause).
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBorda%2FBIRL.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FBorda%2FBIRL?ref=badge_large)
 
 
 ## References
